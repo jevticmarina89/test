@@ -3,7 +3,12 @@ package marinajevtic;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		System.out.println("June was here.");
+		
+		System.out.println("Hello June!");
+		
+		System.out.println("How are you?");
 
 	}
 
